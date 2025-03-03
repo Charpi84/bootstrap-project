@@ -1,0 +1,16 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-weight: normal;
+  text-decoration: none;
+}
+
+.hero-section {
+  background-image: url('https://images.opencollective.com/material/b4c8faf/background.png'); /* Change l'image ici */
+  background-size: cover;
+  background-position: center;
+  height: 30vh;
+}
+
+/*# sourceMappingURL=main.css.map */
